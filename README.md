@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tanux22/tanux22/output/snake.svg" alt="Snake animation" />
 
 ###
